@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  hello-world:
     runs-on: ubuntu-latest
 
     steps:
